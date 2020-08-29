@@ -7,6 +7,7 @@ numero_usuario.times do |i|
             print "2"
         else 
             print "3"
+        end
     end
 end
 puts
